@@ -1,5 +1,5 @@
 {
-  "spider": "http://wd.xhspcn.com/tv/fl_ever.jar",
+  "spider": "https://raw.githubusercontent.com/ZhouQuanJing/tvbox/refs/heads/main/fuli.jar",
   "wallpaper": "https://liu.chuqiuyu.workers.dev",
   "sites": [
     {
